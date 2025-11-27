@@ -66,7 +66,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) ) {
 
 <!-- Optional theme -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
-<title>Uwem Effiong Uke</title>
+<title>Ngô Lê Quân nlquan@vku.udn.vn | 38d08</title>
 </head>
 <body>
 <div class="container">
@@ -95,3 +95,4 @@ makes (all lower case) followed by 123. -->
 </p>
 </div>
 </body>
+
